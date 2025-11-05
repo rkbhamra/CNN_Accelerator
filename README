@@ -1,0 +1,4 @@
+This is a project that is designed to accelerate CNNs using System Verilog. 
+
+Specifications:
+1. It works for a 3x3 kernel on images that are 512 wide of varying heights.
